@@ -9,7 +9,7 @@ function Banner() {
           {Array.from({ length: 15 }).map((_, i) => (
             <img
               key={i}
-              src="public/fruit.png" // 你可以換成 banana.png、grape.png...
+              src="/fruit.png" // 你可以換成 banana.png、grape.png...
               alt="fruit"
               className="fruit"
               style={{
