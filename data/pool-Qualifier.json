@@ -1,0 +1,210 @@
+{
+  "Qualifier": {
+    "NM": {
+      "NM1": {
+        "id": 4914685,
+        "url": "https://osu.ppy.sh/beatmaps/4914685",
+        "url_cover": "https://assets.ppy.sh/beatmaps/2299967/covers/cover.jpg?1735653041",
+        "artist": "Kuba Oms",
+        "songTitle": "My Love",
+        "diffName": "Collab Platter",
+        "mapper": "Deif",
+        "mods": null,
+        "length_total": 220,
+        "length_hit": 211,
+        "BPM": 128,
+        "SR": 2.82,
+        "CS": 3.5,
+        "HP": 5,
+        "OD": 7.8,
+        "AR": 7.8,
+        "count_spinners": 2
+      },
+      "NM2": {
+        "id": 4054573,
+        "url": "https://osu.ppy.sh/beatmaps/4054573",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1957205/covers/cover.jpg?1709397086",
+        "artist": "YOASOBI",
+        "songTitle": "Romance",
+        "diffName": "Love Letter",
+        "mapper": "kfc nugget",
+        "mods": null,
+        "length_total": 165,
+        "length_hit": 165,
+        "BPM": 130,
+        "SR": 3.84,
+        "CS": 3.8,
+        "HP": 5,
+        "OD": 8,
+        "AR": 8,
+        "count_spinners": 1
+      },
+      "NM3": {
+        "id": 4240006,
+        "url": "https://osu.ppy.sh/beatmaps/4240006",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1947146/covers/cover.jpg?1691841199",
+        "artist": "HOYO-MiX feat. Bronya Zaychik (CV: Hanser)",
+        "songTitle": "Cyberangel",
+        "diffName": "Enu's Insane",
+        "mapper": "Nozhomi",
+        "mods": null,
+        "length_total": 172,
+        "length_hit": 148,
+        "BPM": 125,
+        "SR": 2.93,
+        "CS": 4.5,
+        "HP": 4.8,
+        "OD": 7.8,
+        "AR": 8.6,
+        "count_spinners": 4
+      },
+      "NM4": {
+        "id": 3553341,
+        "url": "https://osu.ppy.sh/beatmaps/3553341",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1738510/covers/cover.jpg?1659927760",
+        "artist": "Ling Yuan yousa, Xiu Mu Su, Hun Miao Miao",
+        "songTitle": "Hua Yue Cheng Shuang",
+        "diffName": "Lunar Dance",
+        "mapper": "UjiMatcha",
+        "mods": null,
+        "length_total": 172,
+        "length_hit": 160,
+        "BPM": 90,
+        "SR": 4.34,
+        "CS": 4,
+        "HP": 5,
+        "OD": 7.6,
+        "AR": 9,
+        "count_spinners": 0
+      }
+    },
+    "HD": {
+      "HD1": {
+        "id": 4914685,
+        "url": "https://osu.ppy.sh/beatmaps/4914685",
+        "url_cover": "https://assets.ppy.sh/beatmaps/2299967/covers/cover.jpg?1735653041",
+        "artist": "Kuba Oms",
+        "songTitle": "My Love",
+        "diffName": "Collab Platter",
+        "mapper": "Deif",
+        "mods": null,
+        "length_total": 220,
+        "length_hit": 211,
+        "BPM": 128,
+        "SR": 2.82,
+        "CS": 3.5,
+        "HP": 5,
+        "OD": 7.8,
+        "AR": 7.8,
+        "count_spinners": 2
+      },
+      "HD2": {
+        "id": 4054573,
+        "url": "https://osu.ppy.sh/beatmaps/4054573",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1957205/covers/cover.jpg?1709397086",
+        "artist": "YOASOBI",
+        "songTitle": "Romance",
+        "diffName": "Love Letter",
+        "mapper": "kfc nugget",
+        "mods": null,
+        "length_total": 165,
+        "length_hit": 165,
+        "BPM": 130,
+        "SR": 3.84,
+        "CS": 3.8,
+        "HP": 5,
+        "OD": 8,
+        "AR": 8,
+        "count_spinners": 1
+      }
+    },
+    "HR": {
+      "HR1": {
+        "id": 4914685,
+        "url": "https://osu.ppy.sh/beatmaps/4914685",
+        "url_cover": "https://assets.ppy.sh/beatmaps/2299967/covers/cover.jpg?1735653041",
+        "artist": "Kuba Oms",
+        "songTitle": "My Love",
+        "diffName": "Collab Platter",
+        "mapper": "Deif",
+        "mods": [
+          "HR"
+        ],
+        "length_total": 220,
+        "length_hit": 211,
+        "BPM": 128,
+        "SR": 3.18,
+        "CS": 4.55,
+        "HP": 6.5,
+        "OD": 10,
+        "AR": 10,
+        "count_spinners": 2
+      },
+      "HR2": {
+        "id": 4054573,
+        "url": "https://osu.ppy.sh/beatmaps/4054573",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1957205/covers/cover.jpg?1709397086",
+        "artist": "YOASOBI",
+        "songTitle": "Romance",
+        "diffName": "Love Letter",
+        "mapper": "kfc nugget",
+        "mods": [
+          "HR"
+        ],
+        "length_total": 165,
+        "length_hit": 165,
+        "BPM": 130,
+        "SR": 4.31,
+        "CS": 4.94,
+        "HP": 6.5,
+        "OD": 10,
+        "AR": 10,
+        "count_spinners": 1
+      }
+    },
+    "DT": {
+      "DT1": {
+        "id": 4914685,
+        "url": "https://osu.ppy.sh/beatmaps/4914685",
+        "url_cover": "https://assets.ppy.sh/beatmaps/2299967/covers/cover.jpg?1735653041",
+        "artist": "Kuba Oms",
+        "songTitle": "My Love",
+        "diffName": "Collab Platter",
+        "mapper": "Deif",
+        "mods": [
+          "DT"
+        ],
+        "length_total": 146,
+        "length_hit": 140,
+        "BPM": 192.0,
+        "SR": 4.03,
+        "CS": 3.5,
+        "HP": 5,
+        "OD": 9.64,
+        "AR": 9.53,
+        "count_spinners": 2
+      },
+      "DT2": {
+        "id": 4054573,
+        "url": "https://osu.ppy.sh/beatmaps/4054573",
+        "url_cover": "https://assets.ppy.sh/beatmaps/1957205/covers/cover.jpg?1709397086",
+        "artist": "YOASOBI",
+        "songTitle": "Romance",
+        "diffName": "Love Letter",
+        "mapper": "kfc nugget",
+        "mods": [
+          "DT"
+        ],
+        "length_total": 110,
+        "length_hit": 110,
+        "BPM": 195.0,
+        "SR": 5.46,
+        "CS": 3.8,
+        "HP": 5,
+        "OD": 9.78,
+        "AR": 9.67,
+        "count_spinners": 1
+      }
+    }
+  }
+}
